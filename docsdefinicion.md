@@ -1,7 +1,7 @@
 # **Plataforma Web de Finanzas Personales**
 
-**Introducción: Nombres de los creadores del proyecto  
-<br/>**Miguel Angel Holguin
+Introducción: Nombres de los creadores del proyecto  
+<br/>Miguel Angel Holguin
 
 Angie Juliana Vargas
 
