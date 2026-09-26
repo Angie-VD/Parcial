@@ -1,5 +1,5 @@
 # Parcial
-#(nombre del proyecto)
+# finanzas personales 
 
 # Integrantes:
 
