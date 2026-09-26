@@ -1,5 +1,6 @@
 # Parcial
-# finanzas personales 
+
+*Finanzas personales*
 
 # Integrantes:
 
